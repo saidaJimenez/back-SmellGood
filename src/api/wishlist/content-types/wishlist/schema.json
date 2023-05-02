@@ -4,7 +4,8 @@
   "info": {
     "singularName": "wishlist",
     "pluralName": "wishlists",
-    "displayName": "Wishlist"
+    "displayName": "Wishlist",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true

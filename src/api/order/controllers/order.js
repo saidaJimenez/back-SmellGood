@@ -1,5 +1,5 @@
 'use strict';
-const stripe = require("stripe")("sk_test_51MjJqbAI5HHivhYT8oyGiCqBHG8FNkrJ3cEFMCMOvrfC7PZYzkxSz4gOlF64YzGajuzZ2VrsuA2ZRmFcqSCHCp0f003wcsDsIZ")
+const stripe = require("stripe")("sk_test_51MxtioBzVMZk6QtRyrqxSPMmzibwdkNTY4hVi6NartipMA0ayDeKQQ9E7yW8vIpKCF3t0RuCnM3bm9Cptk6EPzZb00XrQL1pdL")
 
 function calcDiscountPrice(price, discount){
     if(!discount) return price;
